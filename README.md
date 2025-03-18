@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 👨‍💻 You can also check out my portfolio **https://pajgadenandini.github.io/portfolio.github.io/**
+- 👨‍💻 You can also check out my portfolio **https://nandinipajgade.netlify.app/**
 
 - 📫 How to reach me **pajgadenandini2403@gmail.com**
 
